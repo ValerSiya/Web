@@ -10,19 +10,33 @@ namespace Lab1
     {
         static void Main(string[] args)
         {
-            int k=0;
+            Client client = new Client();
+            client.ClientCode();
+            
+            
+           
+            Console.Read();
+        }
+
+    }
+    
+    class Client
+    {
+        public void ClientCode()
+        {
+            int k = 0;
             IFile file;
             IFile clonedFile;
             Console.Write("Enter number of files: ");
-            int n=Convert.ToInt32(Console.ReadLine());
-            int i=1;
-            while(i<=n)
+            int n = Convert.ToInt32(Console.ReadLine());
+            int i = 1;
+            while (i <= n)
             {
                 Console.Write("Enter name of {0} file: ", i);
                 string nm = Console.ReadLine();
                 Console.Write("Enter extension of {0} file: ", i);
                 k = Convert.ToInt32(Console.ReadLine());
-                switch(k)
+                switch (k)
                 {
                     case 1:
                         {
@@ -59,9 +73,7 @@ namespace Lab1
                 }
                 i++;
             }
-            Console.Read();
         }
-
     }
 
     interface IFile
