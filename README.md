@@ -14,4 +14,4 @@
 Клієнтом є користувач, який вводить початкові дані стоврює об’єкти прототипів за допомогою метода Clone.
 
 UML-діаграма:
-![alt text](https://github.com/ValerSiya/Web/blob/master/Diagram.png)
+![alt text](https://github.com/ValerSiya/Web/blob/ValerSiya-patch-1/Diagram.png)
