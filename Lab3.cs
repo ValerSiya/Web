@@ -86,8 +86,6 @@ namespace Lab3
         {
             Console.WriteLine("Throll walks");
         }
-
-
     }
 
     class Pegasus : Character
@@ -124,7 +122,6 @@ namespace Lab3
 
     class Elf : Character
     {
-
         public override void Fight()
         {
             Console.WriteLine("Elf fights with the sword");
@@ -133,8 +130,6 @@ namespace Lab3
         {
             Console.WriteLine("Elf walks");
         }
-
-
     }
 
     class Vampire : Character
