@@ -15,9 +15,9 @@
 -	Видалити заданого виробника і його сувеніри.
 
 Реалізовано паттерни Одинак та Шаблонний метод
-![alt text](https://github.com/ValerSiya/Web/tree/Zalik/Снимок.png)
+![alt text](https://github.com/ValerSiya/Web/blob/Zalik/Снимок.PNG)
 
 Вміст таблиць:
 ![alt text](https://github.com/ValerSiya/Web/blob/Zalik/Maker.PNG)
-![alt text](https://github.com/ValerSiya/Web/blob/Zalik/Souvenir.png)
+![alt text](https://github.com/ValerSiya/Web/blob/Zalik/Souvenir.PNG)
 
