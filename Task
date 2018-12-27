@@ -13,3 +13,11 @@
 -	Вивести інформацію про виробників, чиї ціни на сувеніри менше заданої.
 -	Вивести інформацію про виробників заданого сувеніра, виробленого в заданому році.
 -	Видалити заданого виробника і його сувеніри.
+
+Реалізовано паттерни Одинак та Шаблонний метод
+![alt text](https://github.com/ValerSiya/Web/tree/Zalik/Снимок.png)
+
+Вміст таблиць:
+![alt text](https://github.com/ValerSiya/Web/tree/Zalik/Maker.png)
+![alt text](https://github.com/ValerSiya/Web/tree/Zalik/Souvenir.png)
+
