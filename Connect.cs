@@ -15,7 +15,7 @@ namespace Zalik
     {
         public  Singleton OS { get; set; }
         string connectionString = ConfigurationManager.ConnectionStrings["DefaultConnection"].ConnectionString;
-        public void Launch()
+        public void ConnectToBD()
         {
             OS = Singleton.getInstance(connectionString);
         }
